@@ -6,6 +6,7 @@ Written by Thomas Holzheu
 
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 
 class NeuralNet:
     """End-to-end customizable Neural Network implementation with numpy."""
